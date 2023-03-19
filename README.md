@@ -18,3 +18,6 @@ I put some analytic projects that I have done by using Python in this file.
 * Hotel reservation project.
 
     Dataset on hotel reservation
+* IMDB Movies Project.
+
+    IMDB Dataset of top 250 movies and tv shows.
